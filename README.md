@@ -4,7 +4,7 @@ Artefact for COMP8755
 Run on Visual Studio Code
 
 Packages:\
-Python: 3.8.5  \ 
+Python: 3.8.5  \
 Numpy: 1.21.2   \
 Pandas:  1.1.3  \
 Pytorch: 1.7.1 + cuda 10.1 \
